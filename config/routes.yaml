@@ -1,0 +1,7 @@
+#index:
+#    path: /today/date
+#    controller: App\Controller\TodayDateController::date
+
+#index:
+#    path: /
+#    controller: App\Controller\CurrentHourController::index
